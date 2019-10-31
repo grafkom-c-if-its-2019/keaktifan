@@ -23,7 +23,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 16 | 5111740000025 | DWI PRASETYA ARMUNANTA                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 17 | 5111740000030 | KHOLISHOTUL AMALIAH                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 18 | 5111740000034 | IFTA JIHAN NABILA                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 19 | 5111740000037 | ADZRA ZAKY HAURA                      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 19 | 5111740000037 | ADZRA ZAKY HAURA                      |   |   |   |   |   |   |   |   |   | 1 |    |    |    |    |    |
 | 20 | 5111740000040 | ARINI PUSPITASARI                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 21 | 5111740000051 | MUHAMMAD YUSUF MUKHAROM               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 22 | 5111740000055 | HENDRA RAMADANI                       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
