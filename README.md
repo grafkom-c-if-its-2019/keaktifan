@@ -23,7 +23,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 16 | 5111740000025 | DWI PRASETYA ARMUNANTA                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 17 | 5111740000030 | KHOLISHOTUL AMALIAH                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 18 | 5111740000034 | IFTA JIHAN NABILA                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 19 | 5111740000037 | ADZRA ZAKY HAURA                      |   |   |   |   |   |   |   |   |   | 1 |    |    |    |    |    |
+| 19 | 5111740000037 | ADZRA ZAKY HAURA                      |   |   |   |   |   |   |   |   |   | 1  |    |    |    |    |    |
 | 20 | 5111740000040 | ARINI PUSPITASARI                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 21 | 5111740000051 | MUHAMMAD YUSUF MUKHAROM               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 22 | 5111740000055 | HENDRA RAMADANI                       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
@@ -34,10 +34,10 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 27 | 5111740000070 | RAJA PERMATA BOY MANGATUR SIMARMATA   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 28 | 5111740000082 | INDIRA NURSYAMSINA HAZIMI             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 29 | 5111740000091 | AFFAN AHSANUL HABIB                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 30 | 5111740000099 | BOBBI ADITYA                          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 30 | 5111740000099 | BOBBI ADITYA                          |   |   |   |   |   |   |   |   |   |    |  1 |    |    |    |    |
 | 31 | 5111740000103 | TIMOTHYUS TANNER                      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 32 | 5111740000110 | SHANIA ERIADHANI ASTAGINA             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 33 | 5111740000134 | SAMUEL MARCELLINUS                    |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 33 | 5111740000134 | SAMUEL MARCELLINUS                    |   |   |   |   |   |   |   |   |   |    |  1 |    |    |    |    |
 | 34 | 5111740000166 | EDGAR ANDREW HUTAURUK                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 35 | 5111740000189 | MEILA KAMILIA                         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 36 | 5111740000190 | BASTIAN FARANDY                       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
