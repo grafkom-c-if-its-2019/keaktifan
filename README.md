@@ -32,7 +32,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 25 | 5111740000068 | HAIKAL ALMAZ SAID                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 26 | 5111740000069 | MUHAMMAD FATIH FASIQULISAN WISHNU     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 27 | 5111740000070 | RAJA PERMATA BOY MANGATUR SIMARMATA   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 28 | 5111740000082 | INDIRA NURSYAMSINA HAZIMI             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 28 | 5111740000082 | INDIRA NURSYAMSINA HAZIMI             |   |   |   |   |   |   |   |   |   |    |  1 |    |    |    |    |
 | 29 | 5111740000091 | AFFAN AHSANUL HABIB                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 30 | 5111740000099 | BOBBI ADITYA                          |   |   |   |   |   |   |   |   |   |    |  1 |    |    |    |    |
 | 31 | 5111740000103 | TIMOTHYUS TANNER                      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
