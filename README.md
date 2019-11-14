@@ -15,7 +15,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 8  | 5111640000160 | MUHAMMAD ALGHIFARI YURIZIA            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 9  | 5111640000164 | HILMI RADITYA PRAKOSO                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 10 | 5111640000178 | CHOIRUR ROZIQIN                       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 11 | 5111640000184 | MUHAMMAD AUFA WIBOWO                  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 11 | 5111640000184 | MUHAMMAD AUFA WIBOWO                  |   |   |   |   |   |   |   |   |   |    |    | 1  |    |    |    |
 | 12 | 5111640007002 | AKHMAD NIZAR ZULMI                    |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 13 | 5111740000003 | KARINA SORAYA PUSPITASARI             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 14 | 5111740000015 | ATIKA RIZKI NURAKHMAH                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
