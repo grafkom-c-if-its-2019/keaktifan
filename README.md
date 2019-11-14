@@ -21,7 +21,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 14 | 5111740000015 | ATIKA RIZKI NURAKHMAH                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 15 | 5111740000018 | SHERLY ROSA ANGGRAENI                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 16 | 5111740000025 | DWI PRASETYA ARMUNANTA                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 17 | 5111740000030 | KHOLISHOTUL AMALIAH                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 17 | 5111740000030 | KHOLISHOTUL AMALIAH                   |   |   |   |   |   |   |   | 1 |   |    |    |    |    |    |    |
 | 18 | 5111740000034 | IFTA JIHAN NABILA                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 19 | 5111740000037 | ADZRA ZAKY HAURA                      |   |   |   |   |   |   |   |   |   | 1  |    |    |    |    |    |
 | 20 | 5111740000040 | ARINI PUSPITASARI                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
